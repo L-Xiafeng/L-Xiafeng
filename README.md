@@ -1,4 +1,4 @@
-### <div align="center">I'm JunlinLi, a postgraduate of PKU, working on HPC scheduling system since 2023 🚀</div>  
+### I'm JunlinLi, a postgraduate of PKU, working on HPC scheduling system since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on [CraneSched](https://github.com/PKUHPC/CraneSched)  

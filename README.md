@@ -1,16 +1,18 @@
-## Hi there 👋
+### <div align="center">I'm JunlinLi, a postgraduate of PKU, working on HPC scheduling system since 2023 🚀</div>  
+  
 
-<!--
-**L-Xiafeng/L-Xiafeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [CraneSched](https://github.com/PKUHPC/CraneSched)  
+  
 
-Here are some ideas to get you started:
+- 🌱I’m currently learning HPC computing and AI infras  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=L-Xiafeng&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

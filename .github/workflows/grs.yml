@@ -15,10 +15,15 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide_border=true&theme=blue_navy
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+      - name: Generate top-lang card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=blue_navy&hide_border=true
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards
         run: |
           git config user.name "github-actions"
